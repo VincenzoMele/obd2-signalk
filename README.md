@@ -38,6 +38,8 @@ https://en.wikipedia.org/wiki/OBD-II_PIDs
 ## SignalK output
 ![signalk_output](images/signalk_output.png)
 
+This plugin is tested with an OBD2 simulator.
+
 
 
 
