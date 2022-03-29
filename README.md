@@ -5,10 +5,10 @@ You can read OBD data with a OBD interface.
 
 ## Connection to OBD
 image.
-You can connect to the OBD via TCP or Serial Port. 
+You can connect to the OBD via **TCP** or **Serial Port**. 
 
-- TCP: by inserting IP address and Port;
-- Serial Port: by inserting serial path and baud rate. 
+- **TCP**: by inserting IP address and Port;
+- **Serial Port**: by inserting serial path and baud rate. 
 
 if you have a device bluetooth interface, it must be paired and connected with rfcomm!.
 
