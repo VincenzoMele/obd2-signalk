@@ -4,7 +4,7 @@ On-board diagnostics (OBD) is an automotive term referring to a vehicle's self-d
 You can read OBD data with a OBD interface. 
 
 ## Connection to OBD
-image.
+![plugin_schema](images/plugin_schema.png)
 You can connect to the OBD via **TCP** or **Serial Port**. 
 
 - **TCP**: by inserting IP address and Port;
