@@ -1,7 +1,7 @@
 
 module.exports = function (app) {  
   var plugin = {};
-  var OBD = require('./libs/ObdConnect.js');
+  var OBD = require('./lib/ObdConnect.js');
   var OBDConnect;
   
   plugin.id = 'OBD2-SIGNALK';
