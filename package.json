@@ -1,6 +1,6 @@
 {
   "name": "obd2-signalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin allows to convert OBD2 data to Signalk data",
   "main": "index.js",
   "scripts": {
